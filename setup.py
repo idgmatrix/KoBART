@@ -40,6 +40,6 @@ setup(name='kobart',
       include_package_data=True,
       install_requires=[
           'transformers == 4.3.3',
-          'torch == 1.7.1'
+          'torch == 1.9.0'
       ]
       )
